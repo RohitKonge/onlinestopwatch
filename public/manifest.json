@@ -1,0 +1,30 @@
+{
+  "name": "Online Stopwatch - Free & Accurate Digital Timer",
+  "short_name": "Stopwatch",
+  "description": "The most accurate online stopwatch with millisecond precision. Free, no ads, works offline. Perfect for sports, workouts, cooking, and studying.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["utilities", "productivity", "sports", "education"],
+  "screenshots": [
+    {
+      "src": "/screenshot1.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "label": "Stopwatch main screen with split times"
+    }
+  ]
+}
